@@ -1,0 +1,6 @@
+framework module Pods_Milan {
+  umbrella header "Pods-Milan-umbrella.h"
+
+  export *
+  module * { export * }
+}
